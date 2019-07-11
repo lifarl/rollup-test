@@ -6,7 +6,7 @@ export const Foo: React.FC<any> = props => {
 
   return (
     <div className='foo'>
-      <p>Foo</p>
+      <p>Foo!</p>
     </div>
   )
 }
