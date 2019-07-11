@@ -2,6 +2,7 @@
   "name": "rollup-test",
   "version": "1.0.0",
   "module": "dist/rollup-test.esm.js",
+  "types": "dist/rollup-test.esm.d.ts",
   "license": "MIT",
   "scripts": {
     "build": "rollup -c",
